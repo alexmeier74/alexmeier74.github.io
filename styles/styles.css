@@ -45,3 +45,17 @@ img{
 .text{
 	text-align: left;
 }
+
+#Resume{
+	float:left;
+}
+
+ul #image .nav .navbar-nav .navbar-right < ul < li {
+	margin: 3px;
+	padding: 3px;
+}
+
+#image{
+	margin:0px;
+	padding:0px;
+}

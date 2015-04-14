@@ -23,7 +23,7 @@ img{
 	padding: 1%;
 }
 
-#welcome{
+#content{
 	background-color: #024;
 	border-radius: 25px;
 	min-height: 650px;
@@ -31,4 +31,17 @@ img{
 	margin-left: 1%;
 	text-align: center;
 	color:white;
+}
+
+#heading{
+	font-size: 100px;
+	margin:5%;
+}
+
+.info{
+	text-align: left;
+}
+
+.text{
+	text-align: left;
 }
